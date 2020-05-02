@@ -2,9 +2,13 @@
 
 ![Github Actions Status](https://github.com/wangziling100/JLTerminal/workflows/Build/badge.svg)
 
-A terminal extension for Jupyterlab.
+A terminal extension for Jupyterlab. An entry point is exposed and the code in it will be executed automatically.
 
+## Entry point
+The Entry point points to '/usr/scripts/entry_point.sh'. If there is no such a file or directory, you should create one and edit your bash code in it. The extension will run the script automatically.
 
+## Run it
+You can find the icon 'Run Script' on the launcher panel. 
 
 ## Requirements
 
