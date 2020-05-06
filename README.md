@@ -17,7 +17,7 @@ You can find the icon 'Run Script' on the launcher panel.
 ## Install
 
 ```bash
-jupyter labextension install JLTerminal
+jupyter labextension install @wangziling100/jlterminal
 ```
 
 ## Contributing
@@ -57,5 +57,5 @@ jupyter lab --watch
 
 ```bash
 
-jupyter labextension uninstall JLTerminal
+jupyter labextension uninstall @wangziling100/jlterminal
 ```
