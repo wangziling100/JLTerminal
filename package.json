@@ -1,6 +1,6 @@
 {
-  "name": "JLTerminal",
-  "version": "0.1.0",
+  "name": "@wangziling100/jlterminal",
+  "version": "0.1.1",
   "description": "A terminal extension for Jupyterlab.",
   "keywords": [
     "jupyter",

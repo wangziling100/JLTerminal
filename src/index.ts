@@ -5,18 +5,11 @@ import {
 } from '@jupyterlab/application';
 
 import {
-//   ICommandPalette,
   MainAreaWidget,
   WidgetTracker
 } from '@jupyterlab/apputils';
 import { terminalIcon } from '@jupyterlab/ui-components';
 import { ILauncher } from '@jupyterlab/launcher';
-// import { //IFileMenu, 
-//          IMainMenu 
-// } from '@jupyterlab/mainmenu';
-// import { IRunningSessionManagers,
-//          IRunningSessions 
-// } from '@jupyterlab/running';
 import { ISettingRegistry } from '@jupyterlab/settingregistry';
 // Name-only import so as to not trigger inclusion in main bundle
 import * as WidgetModuleType from '@jupyterlab/terminal/lib/widget';
